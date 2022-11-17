@@ -1,0 +1,25 @@
+body {
+  background-color: #15202b;
+}
+label {
+  color: #fff;
+}
+
+form {
+  max-width: 500px;
+  margin: auto;
+}
+table {
+  background-color: #fff;
+  margin: 2rem 0;
+}
+td:first-child {
+  font-weight: bold;
+}
+
+td button i {
+  pointer-events: none;
+}
+#error {
+  color: red;
+}
